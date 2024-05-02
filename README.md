@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KumarAditya98
 - 👀 I’m interested in working and collaborating on data science related projects
-- 🌱 I’m currently pursuing my masters in Data Science from George Washington Univeristy so there's a lot of exciting projects I'll be working on
+- 🌱 I’m currently pursuing my masters in Data Science from George Washington University so there's a lot of exciting projects I'll be working on
 - 📫 How to reach me - you can mail me at adityakumar2901@outlook.com
 
 <!---
